@@ -7,7 +7,7 @@ The project focuses on learning how classic machine learning methods work intern
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 The repository includes the following files:
 
@@ -37,7 +37,7 @@ The repository includes the following files:
 
 ---
 
-## ⚙️ Techniques & Tools Used
+## Techniques & Tools Used
 
 - Python  
 - NumPy  
