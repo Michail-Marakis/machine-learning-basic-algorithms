@@ -37,7 +37,7 @@ The repository includes the following files:
 
 ---
 
-## Techniques & Tools Used
+## Languages & Tools Used
 
 - Python  
 - NumPy  
